@@ -1,19 +1,19 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=180&section=header&text=Welcome&fontSize=70&desc=duboo-mom's%20github&fontAlign=80&fontAlignY=25&descAlign=80&descAlignY=45&rotate=10" />
 
-  <h4>:cat: Introduce :cat:</h4>
+  <h3>:cat: Introduce :cat:</h3>
   :raising_hand:안녕하세요! <br>
   시스템 개발자로 경험이 있으며, 현재는 웹개발자가 되고자 공부중입니다! <br>
   <b>백엔드 전문가</b>가 되고 싶은 신입 개발자입니다
   <br>
   <br>
   
-  <h4> :bookmark_tabs: resume & portfolio :bookmark_tabs:</h4>
+  <h3> :bookmark_tabs: resume & portfolio :bookmark_tabs:</h3>
   <a href="https://www.notion.so/Resume-94c5914ebfaa42cea74473de15a66bd1"><img src="https://img.shields.io/badge/resume-00CCBB?style=flat&logo=readme&logoColor=white" /></a>
   <a href="https://www.notion.so/3875a94f243446659bf266fd9a8f60f8"><img src="https://img.shields.io/badge/portfolio-FC60A8?style=flat&logo=awesomelists&logoColor=white" /></a>
   <br>
   <br>
-  <h4>:books: Stacks :books:</h4> 
+  <h3>:books: Stacks :books:</h3> 
   
   :four_leaf_clover: platforms & languages :four_leaf_clover:<br>
   
